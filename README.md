@@ -1,2 +1,4 @@
 # COASTAL-RESCUE
-Platform geospasial berbasis website yang dirancang untuk membantu masyarakat pesisir menemukan posisi mereka, mengenali zona ancaman bencana, dan memperoleh rekomendasi jalur evakuasi menuju titik aman berdasarkan informasi spasial dan kondisi lingkungan.
+    npm install
+    npm run dev   # http://localhost:3000
+Swap points are marked with `>>> SWAP` in the code (logo, coastline/hazard GeoJSON, shelters, API endpoints, emergency numbers).
